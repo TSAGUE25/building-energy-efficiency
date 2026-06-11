@@ -1,4 +1,4 @@
-# Efficacité Énergétique des Bâtiments
+﻿# Efficacité Énergétique des Bâtiments
 
 > **Segmentation et prédiction de consommation énergétique par Machine Learning**
 
@@ -114,9 +114,9 @@ Intégration DJC réels. Modèle time-series pour la prédiction mensuelle. Powe
 
 ---
 
-## Auteur
+## Contributors
 
-**Emmanuel TSAGUE** — Data Scientist / Data Analyst
+**TSAGUE Emmanuel** — Data Scientist / Data Analyst
 Domaine : Énergie · Performance opérationnelle · Data Science
 GitHub : [TSAGUE25](https://github.com/TSAGUE25)
 
